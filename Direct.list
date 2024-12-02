@@ -315,6 +315,9 @@ DOMAIN-SUFFIX,appvipshop.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vipstatic.com
 
+#群晖
+DOMAIN-KEYWORD,synology
+DOMAIN-SUFFIX,synology.com
 # Ximalaya 喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
