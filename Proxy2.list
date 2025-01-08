@@ -45,6 +45,7 @@ DOMAIN-KEYWORD,mxwljsq
 DOMAIN-KEYWORD,clash
 DOMAIN-KEYWORD,lobehub
 DOMAIN-KEYWORD,z-library
+DOMAIN-KEYWORD,fcdn
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
