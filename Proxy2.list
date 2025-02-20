@@ -50,6 +50,7 @@ DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,wholesale
 DOMAIN-SUFFIX,smcrystalwholesale.com
 DOMAIN-SUFFIX,godaddy.com
+DOMAIN-KEYWORD,godaddy
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
